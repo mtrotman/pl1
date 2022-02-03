@@ -1,4 +1,8 @@
-Taken from the Google Maps Platform: https://developers.google.com/maps/documentation/javascript/examples/style-array#maps_style_array-javascript
+//Taken from the Google Maps Platform: https://developers.google.com/maps/documentation/javascript/examples/style-array#maps_style_array-javascript
+//My intention is to make a map of dive sites around the island of Barbados. 
+//However, many creatures are active at night. I wanted to emphasize good spots to go night diving by creating this map. 
+//The map is styled with a night mode. 
+//In the future, I wish to add cluster points for dive sites, different kinds of markers for levels of caution at each site as well as a points for the location of the diveshop. 
 
 function initMap() {
   // Styles a map in night mode.
