@@ -1,3 +1,5 @@
+Taken from the Google Maps Platform: https://developers.google.com/maps/documentation/javascript/examples/style-array#maps_style_array-javascript
+
 function initMap() {
   // Styles a map in night mode.
   const map = new google.maps.Map(document.getElementById("map"), {
