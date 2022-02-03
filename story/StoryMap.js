@@ -32,7 +32,7 @@ function initMap() {
 const locations = [
   { lat: 13.247780, lng: -59.650200 },
   { lat: 51.104, lng: -94.288},
-  ]
+  ];
     styles: [
       { elementType: "geometry", stylers: [{ color: "#242f3e" }] },
       { elementType: "labels.text.stroke", stylers: [{ color: "#242f3e" }] },
